@@ -10,11 +10,12 @@ Raw data files were never edited; all changes were made to working copies.
 - ## [29.10.2026] - Business Statement
 Defined business task and project scope (Q1 2019 and Q1 2020 data)
 
-## [29.10.2026] - 
+## [29.10.2026] - total rows 
 1 - 365070 - Q1 2019 
 1 - 426888 - Q1 2020 data
 
 ## [29.10.2026] – Data Cleaning
-- (add each change here: what you did and why)
+- added ride length and day of the week as a new column 
+- cleaned the data and checked for Blanks
 
 
